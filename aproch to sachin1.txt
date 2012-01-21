@@ -1,0 +1,8 @@
+***********************************APPRAOCH TO FIRST PROGRAM*****************************
+
+** In given program I implemented Stack using C langauge.
+** I have chosen C language because it is easy to implement Stack using linked list. 
+** PUSH and POP operations are implemented under SWITCH CASE block.
+** I have used IF ELSE statements for next data to be entered by user which must be the next integer.
+** values which are popped are attached to another linked list. 
+** All popped out values are then printed accorinding which they are popped.
